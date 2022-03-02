@@ -10,4 +10,12 @@ php artisan serve\
 \
 Default admin račun:\
 admin@email.com:123456
+\
+\
+![alt text](https://i.ibb.co/6Ww317V/s1.jpg)
+![alt text](https://i.ibb.co/N7fJyHq/s2.jpg)
+![alt text](https://i.ibb.co/pZjKS77/s3.jpg)
+![alt text](https://i.ibb.co/9Y7Sxwf/s4.jpg)
+![alt text](https://i.ibb.co/vz363f5/s5.jpg)
+![alt text](https://i.ibb.co/vLK5HFD/s6.jpg)
 
