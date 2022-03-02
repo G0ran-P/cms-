@@ -5,4 +5,9 @@ Instalacija:
 
 php artisan migrate\
 php artisan db:seed \
-php artisan serve
+php artisan serve\
+\
+\
+Default admin račun:\
+admin@email.com:123456
+
